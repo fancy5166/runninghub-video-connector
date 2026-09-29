@@ -1,0 +1,24 @@
+{
+  "name": "RunningHub 视频生成",
+  "name_zh": "RunningHub 视频生成",
+  "name_en": "RunningHub Video",
+  "description": "RunningHub 视频能力：文生视频、图生视频、首尾帧生视频、参考生视频、视频编辑增强、数字人口播等 200+ 视频模型 API（可灵、海螺、Seedance、Vidu、万相等）。由 AI芳程式 开发，问题反馈或建议请联系 zzdh518。",
+  "description_zh": "RunningHub 视频能力：文生视频、图生视频、首尾帧生视频、参考生视频、视频编辑增强、数字人口播等 200+ 视频模型 API（可灵、海螺、Seedance、Vidu、万相等）。由 AI芳程式 开发，问题反馈或建议请联系 zzdh518。",
+  "description_en": "RunningHub video capabilities: 200+ video model APIs (text/image-to-video, start-end frames, video editing, digital human) including Kling, Hailuo, Seedance, Vidu and Wan. Developer: AI芳程式, feedback: zzdh518.",
+  "source": "runninghub-video",
+  "type": "mcp",
+  "version": "1.0.0",
+  "minWorkbuddyVersion": "4.23.0",
+  "author": "AI芳程式",
+  "feedback": "zzdh518",
+  "examples_zh": [
+    "用可灵文生视频生成一段海浪拍岸的 5 秒视频",
+    "把这张人物图用图生视频动起来",
+    "用数字人口播模型生成一段说话视频"
+  ],
+  "examples_en": [
+    "Generate a 5s ocean wave video with Kling text-to-video",
+    "Animate this portrait into a short video",
+    "Create a talking-head video with the digital human model"
+  ]
+}
